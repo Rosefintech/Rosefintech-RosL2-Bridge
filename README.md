@@ -5,8 +5,8 @@
 <br />
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Rosefintech/Rosefintech-RosL2-Bridge/main/logo.png">
-    <img src="https://raw.githubusercontent.com/Rosefintech/Rosefintech-RosL2-Bridge/main/logo.png" alt="Logo" width="200" height="200">
+  <a href="https://github.com/Rosefintech/Rosefintech-RosL2-Bridge/blob/main/images/Rosefintech.png">
+    <img src="https://github.com/Rosefintech/Rosefintech-RosL2-Bridge/blob/main/images/Rosefintech.png" alt="Logo" width="200" height="200">
   </a>
 
 [comment]: <> (<h3 align="center">Rosefintech Bridge</h3>)
