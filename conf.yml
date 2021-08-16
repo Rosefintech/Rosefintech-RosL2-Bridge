@@ -1,0 +1,25 @@
+SeverPort:
+Debug: true
+Chain:
+  chainNet:
+  password:
+  privateKey:
+  chainID: 1
+  apiGasPrice:
+Contract:
+  uniswapRouter:
+  uniswapFactory:
+  wbtc:
+  weth:
+  schedule:
+  usdc:
+  billToken:
+  targetCoin:
+    -
+    -
+  fundManager:
+    -
+
+    -
+
+    -
