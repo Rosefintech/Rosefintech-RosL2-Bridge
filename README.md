@@ -38,8 +38,9 @@
 - Back-end computing + bridge validation + smart contract validation
 
 ## Background
-    The Ethereum handling fee has seriously slowed down the decentralization process. 
-    In order to reduce the handling fee, multi-signature verification and zero-knowledge proof are used to manage user assets.
+The Ethereum handling fee has seriously slowed down the decentralization process. 
+
+In order to reduce the handling fee, multi-signature verification and zero-knowledge proof are used to manage user assets.
 
 ### Any optional sections
 
