@@ -55,13 +55,6 @@ proof are used to manage user assets.
  go build -o bridge main.go
 ```
 
-
-Note: The `license` badge image link at the top of this file should be updated with the correct `:user` and `:repo`.
-
-
-
-
-
 ## Community
 
  DISCORD: [https://discord.gg/FEX4cBgHbR](https://discord.gg/FEX4cBgHbR)
