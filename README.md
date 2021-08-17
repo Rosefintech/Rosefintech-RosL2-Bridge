@@ -68,7 +68,7 @@ Note: The `license` badge image link at the top of this file should be updated w
 
 ## Contact
 
- orbit@rosefin.tech
+ e-mail: orbit@rosefin.tech
 
 ## License
 
