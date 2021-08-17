@@ -61,7 +61,7 @@ proof are used to manage user assets.
 
 ## Contact
 
- E-MAIL: orbit@rosefin.tech
+ E-MAIL: dev.rosefintech@gmail.com
 
 ## License
 
