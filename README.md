@@ -63,13 +63,12 @@ Note: The `license` badge image link at the top of this file should be updated w
 
 
 ## Community
-```
- https://discord.gg/FEX4cBgHbR
-```
+
+ [https://discord.gg/FEX4cBgHbR](https://discord.gg/FEX4cBgHbR)
+
 ## Contact
-```
+
  orbit@rosefin.tech
-```
 
 ## License
 
