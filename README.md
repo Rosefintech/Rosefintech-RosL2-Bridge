@@ -30,6 +30,8 @@
 - [Security](#security)
 - [Background](#background)
 - [Install](#install)
+- [Community](#community)
+- [Contact](#contact)
 - [License](#license)
 
 ## Security
@@ -43,15 +45,14 @@ The Ethereum handling fee has seriously slowed down the decentralization process
 In order to reduce the handling fee, multi-signature verification and zero-knowledge 
 proof are used to manage user assets.
 
-### Any optional sections
 
 ## Install
 - This project uses [go mod](https://golang.org/ref/mod). Go check them out if you don't have them locally installed.
 ```
-go mod init --[project]
+ go mod init --[project]
 ```
 ```
-go build -o bridge main.go
+ go build -o bridge main.go
 ```
 
 
@@ -59,7 +60,16 @@ Note: The `license` badge image link at the top of this file should be updated w
 
 
 
-### Any optional sections
+
+
+## Community
+```
+ https://discord.gg/FEX4cBgHbR
+```
+## Contact
+```
+ orbit@rosefin.tech
+```
 
 ## License
 
